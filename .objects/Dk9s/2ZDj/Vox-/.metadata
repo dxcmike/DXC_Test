@@ -1,0 +1,15 @@
+﻿{
+  "Id": "Vox-Qd4UAkyLZYVxTio6Sw",
+  "Reference": "Q0TcbNfbwkSBFAYGDQa6CA/Vox-Qd4UAkyLZYVxTio6Sw",
+  "ParentRef": "Q0TcbNfbwkSBFAYGDQa6CA/2ZDjfXfaIUiIcS9NhElECw",
+  "Name": "Notepad_DXC_Test",
+  "Type": "Screen",
+  "Created": "2022-09-02T03:46:43.9114495Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-02T03:47:12.2292813Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
